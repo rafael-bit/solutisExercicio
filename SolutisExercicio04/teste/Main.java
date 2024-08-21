@@ -1,6 +1,6 @@
-package projects.idea.ex4.teste;
+package projects.idea.SolutisExercicio04.teste;
 
-import projects.idea.ex4.dominio.*;
+import projects.idea.SolutisExercicio04.dominio.*;
 
 public class Main {
     public static void main(String[] args) {

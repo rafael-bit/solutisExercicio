@@ -1,4 +1,4 @@
-package projects.idea.ex4.dominio;
+package projects.idea.SolutisExercicio04.dominio;
 
 public class Pombo extends AnimalVoadorAB {
     public Pombo(String nome, int idade, String habitat, double altura, double peso, double envergaduraAssa) {

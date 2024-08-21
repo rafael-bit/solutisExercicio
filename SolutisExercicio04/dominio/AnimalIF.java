@@ -1,4 +1,4 @@
-package projects.idea.ex4.dominio;
+package projects.idea.SolutisExercicio04.dominio;
 
 public interface AnimalIF {
     void comer();

@@ -1,4 +1,4 @@
-package projects.idea.ex4.dominio;
+package projects.idea.SolutisExercicio04.dominio;
 
 public class Cachorro extends AnimalTerrestreAB {
     public Cachorro(String nome, int idade, String habitat, double altura, double peso) {
